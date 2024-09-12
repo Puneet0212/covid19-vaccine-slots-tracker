@@ -24,6 +24,5 @@ This repository stores the source code of the Telegram Bot CoWIN Alerts availabl
 ## Screenshots
 
 <div>
-<img src="https://user-images.githubusercontent.com/4991449/120036469-76c3ab80-c000-11eb-8925-3ce2ba8c8762.jpg" alt="set pincode" width="400"/>
 <img src="https://user-images.githubusercontent.com/4991449/120036171-01f07180-c000-11eb-83fc-4a051a15fdb4.jpg" alt="receive alerts" width="400"/>
 </div>
